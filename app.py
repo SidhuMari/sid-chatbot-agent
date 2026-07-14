@@ -13,7 +13,7 @@ st.write("Ask me anything about current events. I will browse the web to find th
 # --- 1. SIDEBAR CONFIGURATION ---
 with st.sidebar:
     st.header("⚙️ System Config")
-    ##Groq api inputs
+   
     st.info("Equipped with: DuckDuckGo Web Search Tool")
 
 # --- 2. THE MEMORY VAULT ---
